@@ -1,0 +1,8 @@
+title: M.i.t.r.o.s.t.z.i.a.v.a.r.a.s
+description: https://multimitros.blogspot.gr
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
